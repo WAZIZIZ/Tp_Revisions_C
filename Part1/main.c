@@ -23,7 +23,7 @@ int main() {
 		printf("la valeur absolue est : %d\n", V);
 	}
 	else {
-		printf("la valeur absolue est : %d\n", -V);
+		printf("la valeur absolue est : %d\n", -V);   
 	}
 
 	return 0;
