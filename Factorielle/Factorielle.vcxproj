@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{dbe3f657-361d-4391-b6ee-383b4a9ce041}</ProjectGuid>
-    <RootNamespace>Part1</RootNamespace>
+    <ProjectGuid>{aa4082d5-9d5f-4b46-8dbb-d2adf2b87b7c}</ProjectGuid>
+    <RootNamespace>Factorielle</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Valeurabsolue</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
