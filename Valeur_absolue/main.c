@@ -14,7 +14,7 @@
 int main() {
 	int V;
 
-	// Demande à l'utilisateur de saisir un nombre entier   
+	// Demande à l'utilisateur de saisir un nombre entier        
 	printf("saisir un nombre entier : ");
 	scanf("%d", &V);
 
