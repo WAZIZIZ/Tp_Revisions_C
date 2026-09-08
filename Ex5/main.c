@@ -7,12 +7,12 @@
 * Environnement :
 *                - Cible / Microprocesseur : x86 64
 * 			     - IDE / Compilateur : Visual Studio 2026
-* Description : Programme qui demande à l'utilisateur de saisir un nombre entier et affiche sa valeur absolue.
+* Description : allocation dynamique d'un octet de memoire pour stocker un caractere
 * ****************************************************************************************************************/
 
 
 #define _CRT_SECURE_NO_WARNINGS
-#include <stdio.h>
+#include <stdio.h>    
 #include <stdlib.h> //nécessaire pour malloc et free
 
 int main() {
