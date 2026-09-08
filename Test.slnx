@@ -11,5 +11,5 @@
   <Project Path="Ex6/Ex6.vcxproj" />
   <Project Path="Ex7/Ex7.vcxproj" />
   <Project Path="Factorielle/Factorielle.vcxproj" />
-  <Project Path="Part1/Part1.vcxproj" />
+  <Project Path="Valeur_absolue/Valeur_absolue.vcxproj" />
 </Solution>
