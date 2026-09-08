@@ -7,7 +7,7 @@
 * Environnement :
 *                - Cible / Microprocesseur : x86 64
 * 			     - IDE / Compilateur : Visual Studio 2026
-* Description : Programme qui demande à l'utilisateur de saisir un nombre entier et affiche sa valeur absolue.
+* Description : Tableau 2d avec boucle for
 * ****************************************************************************************************************/
 
 
